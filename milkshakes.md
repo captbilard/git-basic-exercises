@@ -1,3 +1,0 @@
-Strawberry
-Chocolate
-arbitary change
