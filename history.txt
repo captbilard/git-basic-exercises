@@ -1,0 +1,1000 @@
+ 1088  python manage.py migrate
+ 1089  python manage.py runserver
+ 1090  pipenv install django-filter
+ 1091  python manage.py runserver
+ 1092  python manage.py makemigrations
+ 1093  python manage.py migrate
+ 1094  python manage.py runserver
+ 1095  deactivate
+ 1096  exit
+ 1097  cd Desktop/C360Network/
+ 1098  pipenv shell
+ 1099  poweroff
+ 1100  code .
+ 1101  code .
+ 1102  ls
+ 1103  cd Change360Network/
+ 1104  ls
+ 1105  python manage.py startapp accounts
+ 1106  ls
+ 1107  python manage.py runserver
+ 1108  git status
+ 1109  git add .
+ 1110  git checkout -b ft-implemented-endpoint
+ 1111  git add .
+ 1112  git status
+ 1113  pip freeze > requirements.txt
+ 1114  git add .
+ 1115  git status
+ 1116  ls
+ 1117  python manage.py runserver
+ 1118  clear
+ 1119  python manage.py runserver
+ 1120  git status
+ 1121  git add .
+ 1122  git status
+ 1123  git add .
+ 1124  git commit 
+ 1125  git push origin HEAD
+ 1126  git add .
+ 1127  git checkout master
+ 1128  git add .
+ 1129  git commit -m "Updated settings.py"
+ 1130  git push origin HEAD
+ 1131  git checkout master
+ 1132  git pull
+ 1133  git remote -v
+ 1134  git fetch
+ 1135  git merge
+ 1136  git merge ft-implemented-endpoint
+ 1137  deactivate
+ 1138  exit
+ 1139  cd Desktop/C360Network/
+ 1140  pipenv shell
+ 1141  poweroff
+ 1142  ls
+ 1143  code .
+ 1144  pipenv install -U drf-yasg
+ 1145  pipenv install drf-yasg
+ 1146  ls
+ 1147  cd Change360Network/
+ 1148  ls
+ 1149  python manage.py migrate
+ 1150  pipenv uninstall drf-yasg
+ 1151  pipenv install drf_yasg2
+ 1152  python manage.py migrate
+ 1153  python manage.py runserver
+ 1154  git status
+ 1155  pip freeze > requirements.txt
+ 1156  cd ..
+ 1157  ls
+ 1158  pip freeze > requirements.txt
+ 1159  cd Change360Network/
+ 1160  ls
+ 1161  cd slaw
+ 1162  ls
+ 1163  flake8 models.py 
+ 1164  flake8 serializers.py 
+ 1165  flake8 views.py 
+ 1166  cd ...
+ 1167  cd ..
+ 1168  cd /
+ 1169  cd ..
+ 1170  ls
+ 1171  cd home/
+ 1172  ls
+ 1173  deactivate
+ 1174  exit
+ 1175  ls
+ 1176  git status
+ 1177  git add .
+ 1178  git commit 
+ 1179  git push origin HEAD
+ 1180  git pull
+ 1181  git merge ft-implemented-endpoint
+ 1182  git status
+ 1183  git push origin HEAD
+ 1184  git merge master
+ 1185  git pull master
+ 1186  git pull origin master
+ 1187  git status
+ 1188  git push origin HEAD
+ 1189  ls
+ 1190  cd Change360Network/
+ 1191  ls
+ 1192  xdg-open 
+ 1193  xdg-open .
+ 1194  clear
+ 1195  ls
+ 1196  deactivate
+ 1197  exit
+ 1198  cd Desktop/C360Network/
+ 1199  ls
+ 1200  pipenv shell
+ 1201  ls
+ 1202  pipenv shell
+ 1203  poweroff
+ 1204  code .
+ 1205  cd Change360Network/
+ 1206  ls
+ 1207  python manage.py runserver
+ 1208  git status
+ 1209  git add .
+ 1210  git commit
+ 1211  git push origin HEAD
+ 1212  deactivate
+ 1213  exit
+ 1214  cd Desktop/C360Network/
+ 1215  pipenv shell
+ 1216  cd Desktop/
+ 1217  python intermediate.py 
+ 1218  python
+ 1219  cd Desktop/
+ 1220  python intermediate.py 
+ 1221  cd Desktop/Intermediate/
+ 1222  ls
+ 1223  python intermediate.py 
+ 1224  cd Desktop/Intermediate/
+ 1225  python intermediate.py 
+ 1226  clear
+ 1227  python intermediate.py 
+ 1228  clear
+ 1229  python intermediate.py 
+ 1230  suo ./install.sh 
+ 1231  sudo ./install.sh 
+ 1232  xdman
+ 1233  exit
+ 1234  ls
+ 1235  cd Change360Network/
+ 1236  ls
+ 1237  cd ..
+ 1238  pipenv install django-cors-headers
+ 1239  code .
+ 1240  ls
+ 1241  pip freeze > requirements.txt
+ 1242  deactivate
+ 1243  exit
+ 1244  cd Desktop/C360Network/
+ 1245  pipenv shell
+ 1246  exit
+ 1247  pipenv install django
+ 1248  django-admin startproject backend
+ 1249  ls
+ 1250  cd backend/
+ 1251  ls
+ 1252  python manage.py startapp api
+ 1253  ls
+ 1254  cd api/
+ 1255  ls
+ 1256  cd ..
+ 1257  pipenv install djangorestframework
+ 1258  code .
+ 1259  cd backend/
+ 1260  ls
+ 1261  python manage.py runserver
+ 1262  pipenv install requests
+ 1263  python manage.py runserver
+ 1264  python manage.py makemigrations
+ 1265  python manage.py migrate
+ 1266  python manage.py runserver
+ 1267  deactivate
+ 1268  exit
+ 1269  cd Desktop/
+ 1270  ls
+ 1271  mkir hatchways
+ 1272  mkdir hatchways
+ 1273  cd hatchways/
+ 1274  clear
+ 1275  pipenv shell
+ 1276  cd ..
+ 1277  mkdir hatchways
+ 1278  cd hatchways/
+ 1279  pipenv shell
+ 1280  poweroff
+ 1281  code .
+ 1282  ls
+ 1283  cd backend/
+ 1284  ls
+ 1285  python manage.py runserver
+ 1286  python manage.py rutest
+ 1287  python manage.py test
+ 1288  ls
+ 1289  python manage.py test api/tests.py 
+ 1290  python manage.py test
+ 1291  pipenv install flake8
+ 1292  cd api/
+ 1293  ls
+ 1294  flake8 tests.py 
+ 1295  cd ..
+ 1296  ls
+ 1297  python manage.py test
+ 1298  cd api/
+ 1299  flake8 views.py 
+ 1300  cd ..
+ 1301  python manage.py runserver
+ 1302  ls
+ 1303  cd ..
+ 1304  ls
+ 1305  pip freeze > requirements.txt
+ 1306  pipenv install --upgrade requests-cache
+ 1307  pipenv install  requests-cache
+ 1308  ls
+ 1309  cd backend/
+ 1310  python manage.py runserver
+ 1311  cd ..
+ 1312  ls
+ 1313  pip freeze > requirements.txt 
+ 1314  deactivate
+ 1315  exit
+ 1316  cd Desktop/hatchways/
+ 1317  ls
+ 1318  pipenv shell
+ 1319  exit
+ 1320  cd backend/
+ 1321  ls
+ 1322  python manage.py shell
+ 1323  deactivate
+ 1324  exit
+ 1325  curl localhost:8000/api/posts/?tag=history
+ 1326  curl localhost:8000/api/posts/?tags=history
+ 1327  clear
+ 1328  pipenv shell
+ 1329  exit
+ 1330  code .
+ 1331  ls
+ 1332  cd Change360Network/
+ 1333  ls
+ 1334  python manage.py shell
+ 1335  python manage.py runserver
+ 1336  deactivate
+ 1337  exit
+ 1338  ls
+ 1339  pipenv shell
+ 1340  exit
+ 1341  ls
+ 1342  pipenv install django
+ 1343  django-admin startproject e_commerce
+ 1344  ls
+ 1345  cd e_commerce/
+ 1346  ls
+ 1347  python manage.py startapp backend
+ 1348  ls
+ 1349  code .
+ 1350  deactivate
+ 1351  exit
+ 1352  pipenv shell
+ 1353  exit
+ 1354  code .
+ 1355  ls
+ 1356  code .
+ 1357  uptime -p
+ 1358  cd Desktop/hatchways/
+ 1359  ls
+ 1360  pipenv shell
+ 1361  code .
+ 1362  flake8 backend/api/views.py
+ 1363  ls
+ 1364  xdg-open backend/
+ 1365  google-chrome
+ 1366  deactivate
+ 1367  cd ..
+ 1368  ls
+ 1369  cd MDB-Free_4.19.1/
+ 1370  clear
+ 1371  ls
+ 1372  code .
+ 1373  deactivate
+ 1374  exit
+ 1375  ls
+ 1376  pipenv shell
+ 1377  exit
+ 1378  uptime -p
+ 1379  ls
+ 1380  convert "HND1 2nd semresult.pdf" "HND1 result.pdf" merged.pdf
+ 1381  sudo convert "HND1 2nd semresult.pdf" "HND1 result.pdf" merged.pdf
+ 1382  cd ~
+ 1383  sudo apt install poppler-utils
+ 1384  sudo apt update
+ 1385  uptime -p
+ 1386  cd Desktop/Intermediate/
+ 1387  python intermediate.py 
+ 1388  cd Documents/CV\ et\ all/
+ 1389  ls
+ 1390  cd Statement\ Of\ Results/
+ 1391  clear
+ 1392  ls
+ 1393  pdfunite Research\ Statement\ form_2-filled.pdf STATEMENT\ OF\ RESEARCH\ INTEREST.pdf "Research Statement.pdf"
+ 1394  pdfunit Updated_form_2-filled.pdf "STATEMENT OF RESEARCH INTEREST.pdf" "Research Statement1.pdf"
+ 1395  pdfunite Updated_form_2-filled.pdf "STATEMENT OF RESEARCH INTEREST.pdf" "Research Statement1.pdf"
+ 1396  docker --version
+ 1397  sudo docker --version
+ 1398  pipenv install django==2.2.7
+ 1399  django-admin startproject hello_project.
+ 1400  django-admin startproject hello_project
+ 1401  xdg
+ 1402  django-admin startproject hello_project .
+ 1403  django-admin startproject hello_project1
+ 1404  ls
+ 1405  python manage.py migrate
+ 1406  python manage.py runserver
+ 1407  python manage.py startapp pages
+ 1408  code .
+ 1409  python manage.py startapp pages
+ 1410  python manage.py runserver
+ 1411  exit
+ 1412  sudo pip isntall docker-compose
+ 1413  sudo pip install docker-compose
+ 1414  sudo docker-compose --version
+ 1415  docker run hello-world
+ 1416  sudo docker run hello-world
+ 1417  docker info
+ 1418  sudo docker info
+ 1419  cd Desktop && mkdir code && cd code
+ 1420  mkdir hello && cd hello
+ 1421  pipenv shell
+ 1422  python manage.py runserver
+ 1423  touch Dockerfile
+ 1424  ls
+ 1425  cls
+ 1426  clear
+ 1427  sudo docker build .
+ 1428  touch docker-compose.yml
+ 1429  ls
+ 1430  sudo docker-compose --version
+ 1431  sudo docker --version
+ 1432  sudo docker-compose up.
+ 1433  sudo docker-compose up
+ 1434  docker-compose down
+ 1435  docker-compose down.
+ 1436  sudo docker-compose down
+ 1437  git init
+ 1438  git status
+ 1439  git add .
+ 1440  git commit -m 'ch1'
+ 1441  pipenv shell
+ 1442  pip install pywhatkit
+ 1443  coe .
+ 1444  code .
+ 1445  python whatsapptest.py 
+ 1446  sudo apt-get install python3-tk python3-dev
+ 1447  python whatsapptest.py 
+ 1448  shutdown -c
+ 1449  code .
+ 1450  python whatsapptest.py 
+ 1451  shutdown -c
+ 1452  python whatsapptest.py 
+ 1453  cd Desktop/code/
+ 1454  ls
+ 1455  git status
+ 1456  cd hello
+ 1457  git status
+ 1458  cd ..
+ 1459  cd hello/
+ 1460  ls
+ 1461  touch .gitignore
+ 1462  code .
+ 1463  git remote add origin https://github.com/captbilard/Django-Docker-Hello-World-.git
+ 1464  git branch -M main
+ 1465  git push -u origin main
+ 1466  cd ..
+ 1467  clear
+ 1468  mkdir postgresql && cd /postgresql
+ 1469  cd postgresql/
+ 1470  pipenv shell
+ 1471  pipenv install django==2.2.7
+ 1472  django-admin startproject postgresql_project .
+ 1473  python manage.py migrate
+ 1474  python manage.py runserver
+ 1475  ls
+ 1476  deactivate
+ 1477  touch Dockerfile
+ 1478  touch docker-compose.yml
+ 1479  code .
+ 1480  docker build .
+ 1481  sudo docker build .
+ 1482  docker-compose up -d
+ 1483  sudo docker-compose up -d
+ 1484  docker-compose exec web manage.py createsuperuser
+ 1485  sudo docker-compose exec web manage.py createsuperuser
+ 1486  sudo docker-compose exec web python manage.py createsuperuser
+ 1487  sudo docker-compose down
+ 1488  sudo docker-compose up -d
+ 1489  sudo docker-compose down
+ 1490  shutdown
+ 1491  ~s
+ 1492  ls
+ 1493  cd postgresql/
+ 1494  ls
+ 1495  docker-compose up -d
+ 1496  sudo docker-compose up -d
+ 1497  code .
+ 1498  docker-compose logs
+ 1499  sudo docker-compose logs
+ 1500  sudo docker-compose exec web pipenv install psycopg2-binary==2.8.3
+ 1501  sudo docker-compose logs
+ 1502  sudo docker-compose up -d
+ 1503  sudo docker-compose exec web pipenv install psycopg2-binary==2.8.3
+ 1504  sudo docker-compose logs
+ 1505  sudo docker-compose down
+ 1506  sudo docker-compose up -d --build
+ 1507  sudo docker-compose logs
+ 1508  sudo docker-compose down
+ 1509  sudo docker-compose up -d --build
+ 1510  sudo docker-compose logs
+ 1511  sudo docker-compose down
+ 1512  sudo docker-compose up -d
+ 1513  sudo docker-compose down
+ 1514  sudo docker-compose up -d
+ 1515  sudo docker-compose logs
+ 1516  sudo docker-compose exec web python manage.py migrate
+ 1517  sudo docker-compose exec web python manage.py createsuperuser
+ 1518  sudo docker-compose down
+ 1519  git init
+ 1520  git status
+ 1521  git add .
+ 1522  git commit -m 'ch2'
+ 1523  git remote add origin https://github.com/captbilard/Django-for-Professionals.git
+ 1524  git branch -M Ch2
+ 1525  git push -u origin Ch2
+ 1526  python manage.py runserver
+ 1527  exit
+ 1528  cd Desktop/code/books/
+ 1529  ls
+ 1530  pipenv shell
+ 1531  touch Dockerfile
+ 1532  touch docker-compose.yml
+ 1533  code .
+ 1534  ls
+ 1535  sudo docker-compose up -d --build
+ 1536  sudo docker-compose logs
+ 1537  sudo docker-compose up -d --build
+ 1538  sudo docker-compose logs
+ 1539  sudo docker-compose up -d
+ 1540  sudo docker-compose up -d --build
+ 1541  sudo docker-compose logs
+ 1542  sudo docker-compose exec web python manage.py startapp users
+ 1543  sudo docker-compose exec web python manage.py makemigrations users
+ 1544  sudo docker-compose logs
+ 1545  sudo code .
+ 1546  code .
+ 1547  sudo docker-compose exec web python manage.py makemigrations users
+ 1548  sudo docker-compose up -d --build
+ 1549  sudo docker-compose exec web python manage.py makemigrations users
+ 1550  sudo docker-compose exec web python manage.py migrate
+ 1551  ls
+ 1552  cd users/
+ 1553  ls
+ 1554  touch forms.py
+ 1555  sudo touch forms.py
+ 1556  cd ..
+ 1557  sudo docker-compose -logs
+ 1558  sudo docker-compose logs
+ 1559  sudo docker-compose up -d --build
+ 1560  sudo docker-compose exec web python manage.py createsuperuser
+ 1561  sudo docker-compose up -d
+ 1562  sudo docker-compose exec web python manage.py createsuperuser
+ 1563  sudo docker-compose logs
+ 1564  sudo docker-compose up -d --build
+ 1565  sudo docker-compose down
+ 1566  ubuntu-bug ubuntu-release-upgrader-core
+ 1567  sudo apt-get remove nodejs
+ 1568  sudo apt autoremove
+ 1569  sudo apt-get purge nodejs
+ 1570  sudo apt-get remove npm
+ 1571  sudo apt-get update
+ 1572  which docker
+ 1573  which node
+ 1574  which npm
+ 1575  which postgresql
+ 1576  which postgre
+ 1577  cd Desktop/code/
+ 1578  ls
+ 1579  cd books/
+ 1580  ls
+ 1581  code .
+ 1582  cd Desktop/code/books/
+ 1583  sudo docker-compose up -d
+ 1584  sudo docker-compose exec web python manage.py test
+ 1585  git init
+ 1586  git status
+ 1587  git add .
+ 1588  git commit -m 'ch3'
+ 1589  sudo docker-compose exec web python manage.py startapp pages
+ 1590  ls
+ 1591  code .
+ 1592  mkdir templates
+ 1593  touch templates/_base.html
+ 1594  touch templates/home.html
+ 1595  ls
+ 1596  cd oages
+ 1597  cd pages/
+ 1598  ls
+ 1599  sudo touch urls.py
+ 1600  sudo docker-compose logs
+ 1601  docker-compose down
+ 1602  sudo docker-compose down
+ 1603  sudo docker-compose up -d
+ 1604  sudo docker-compose down
+ 1605  poweroff
+ 1606  cd Desktop/code
+ 1607  cd books/
+ 1608  ls
+ 1609  sudo docker-compose up -d
+ 1610  code .
+ 1611  sudo docker-compose exec web python manage.py test
+ 1612  sudo docker-compose exec web python manage.py test pages
+ 1613  git init
+ 1614  git status
+ 1615  git add .
+ 1616  git commit -m 'ch4'
+ 1617  sudo docker-compose down
+ 1618  shutdown
+ 1619  cd Desktop/code/books/
+ 1620  ls
+ 1621  sudo docker-compose up -d
+ 1622  cd templates/
+ 1623  mkdir registration
+ 1624  ls
+ 1625  cd registration/
+ 1626  touch login.html
+ 1627  cd ..
+ 1628  ls
+ 1629  sudo docker-compose logs
+ 1630  sudo docker-compose down
+ 1631  sudo docker-compose up -d
+ 1632  ls
+ 1633  sudo touch users/urls.py
+ 1634  sudo touch templates/sign_up.html
+ 1635  sudo docker-compose up -d
+ 1636  sudo docker-compose logs
+ 1637  sudo docker-compose up -d
+ 1638  sudo docker-compose logs
+ 1639  sudo docker-compose down
+ 1640  sudo docker-compose up -d
+ 1641  sudo docker-compose exec web python manage.py test
+ 1642  sudo docker-compose down
+ 1643  poweroff
+ 1644  cd Desktop/code/
+ 1645  ls
+ 1646  cd books/
+ 1647  ls
+ 1648  sudo docker-compose up -d
+ 1649  sudo docker-compose exec web python manage.py test
+ 1650  code .
+ 1651  sudo docker-compose exec web python manage.py test
+ 1652  sudo docker-compose exec web python manage.py test users
+ 1653  sudo docker-compose exec web python manage.py test
+ 1654  clear
+ 1655  git status
+ 1656  git add .
+ 1657  git commit -m 'ch5'
+ 1658  git status
+ 1659  mkdir static
+ 1660  mkdir static/css
+ 1661  mkdir static/js
+ 1662  mkdir static/images
+ 1663  touch static/css/base.css
+ 1664  sudo docker-compose logs
+ 1665  sudo docker-compose down
+ 1666  sudo docker-compose up -d
+ 1667  touch static/js/base.js
+ 1668  sudo docker-compose web exec python manage.py collectstatic
+ 1669  sudo docker-compose exec web  python manage.py collectstatic
+ 1670  sudo docker-compose down
+ 1671  poweroff
+ 1672  cd Desktop/code/books/
+ 1673  ls
+ 1674  sudo dcoker-compose up -d
+ 1675  sudo docker-compose up -d
+ 1676  code .
+ 1677  ls
+ 1678  touch templates/about.html
+ 1679  sudo django-compose exec web pipenv install django-crispy-forms==1.8.0
+ 1680  sudo docker-compose exec web pipenv install django-crispy-forms==1.8.0
+ 1681  sudo docker-compose down
+ 1682  sudo docker-compose up -d --build
+ 1683  sudo docker-compose down
+ 1684  sudo docker-compose up -d
+ 1685  sudo docker-compose logs
+ 1686  sudo docker-compose exec web python manage.py test
+ 1687  git status
+ 1688  git add .
+ 1689  git commit -m 'ch6'
+ 1690  sudo docker-compose down
+ 1691  exit
+ 1692  cd Desktop/code
+ 1693  ls
+ 1694  cd books/
+ 1695  ls
+ 1696  code .
+ 1697  sudo docker-compose up -d
+ 1698  sudo docker-compose exec web pipenv install django-allauth==0.40.0
+ 1699  sudo docker-compose down
+ 1700  sudo docker-compose up -d --build
+ 1701  uptime -p
+ 1702  sudo docker-compose exec web python manage.py migrate
+ 1703  sudo docker-compose logs
+ 1704  sudo docker-compose down
+ 1705  sudo docker-compose up -d
+ 1706  sudo docker-compose logs
+ 1707  sudo docker-compose exec web python manage.py migrate
+ 1708  mkdir templates/account
+ 1709  mv templates/registration/login.html templates/account/login.html
+ 1710  mv templates/signup.html templates/account/signup.html
+ 1711  rm -r templates/registration/
+ 1712  sudo docker-compose logs
+ 1713  sudo docker-compose down
+ 1714  sudo docker-compose up -d
+ 1715  sudo docker-compose down
+ 1716  shutdown
+ 1717  cd Desktop/code/books/
+ 1718  ls
+ 1719  sudo docker-compose up -d
+ 1720  code .
+ 1721  sudo docker-compose logs
+ 1722  sudo docker-compose down
+ 1723  sudo docker-compose up -d
+ 1724  touch templates/account/logout.html
+ 1725  sudo docker-compose down
+ 1726  systemctl --user mask tracker-store.service tracker-miner-fs.service tracker-miner-rss.service tracker-extract.service tracker-miner-apps.service tracker-writeback.service
+ 1727  tracker reset --hard
+ 1728  sudo reboot
+ 1729  cd Desktop/code/books/
+ 1730  sudo docker-compose up -d
+ 1731  code .
+ 1732  sudo docker-compose logs
+ 1733  sudo docker-compose down
+ 1734  sudo docker-compose up -d
+ 1735  sudo docker-compose exec web python manage.py test
+ 1736  git status
+ 1737  git add .
+ 1738  git commit -m 'ch7'
+ 1739  sudo docker-compose down
+ 1740  exit
+ 1741  uptime -p
+ 1742  cd Desktop/code/books/
+ 1743  code .
+ 1744  sudo docker-compose up -d
+ 1745  sudo docker-compose down
+ 1746  sudo docker-compose up -d
+ 1747  uptime -p
+ 1748  cd Desktop/code/books/
+ 1749  sudo docker-compose down
+ 1750  sudo docker-compose up -d
+ 1751  git status
+ 1752  git add .
+ 1753  git commit -m 'ch8'
+ 1754  sudo docker-compose logs
+ 1755  mkdir templates/account/email
+ 1756  touch templates/account/email/email_confirmation_subject.txt
+ 1757  touch templates/account/email/email_confirmation_message.txt
+ 1758  touch templates/account/email/base_message.txt
+ 1759  sudo docker-compose down
+ 1760  sudo docker-compose up -d
+ 1761  sudo docker-compose logs
+ 1762  touch templates/account/email_confirm.html
+ 1763  sudo docker-compose down
+ 1764  poweroff
+ 1765  cd Desktop/code/books/
+ 1766  ls
+ 1767  code .
+ 1768  sudo docker-compose up -d
+ 1769  touch templates/account/email/password_reset_key_message.txt
+ 1770  touch templates/account/{% load i18n %}{% autoescape off %}{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}Hello from {{ site_name }}!
+ 1771  You're receiving this e-mail because you or someone else has requested a password for your user account.
+ 1772  It can be safely ignored if you did not request a password reset. Click the link below to reset your password.{% endblocktrans %}
+ 1773  {{ password_reset_url }}
+ 1774  {% if username %}{% blocktrans %}In case you forgot, your username is {{ username }}.{% endblocktrans %}
+ 1775  {% endif %}{% blocktrans with site_name=current_site.name site_domain=current_site.domain %}Thank you for using {{ site_name }}!
+ 1776  {{ site_domain }}{% endblocktrans %}
+ 1777  touch templates/account/password_reset.html
+ 1778  touch templates/account/password_change.html
+ 1779  uptime -p
+ 1780  cd Desktop/code/books/
+ 1781  ls
+ 1782  clear
+ 1783  sudo docker-compose logs
+ 1784  sudo docker-compose down
+ 1785  sudo docker-compose up -d
+ 1786  sudo docker-compose logs
+ 1787  sudo docker-compose down
+ 1788  shutdown
+ 1789  CODE .
+ 1790  code .
+ 1791  cd ..
+ 1792  cd code/books/
+ 1793  ls
+ 1794  sudo docker-compose up -d
+ 1795  code .
+ 1796  sudo docker-compose logs
+ 1797  curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+ 1798  sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+ 1799  sudo apt install pgadmin4
+ 1800  sudo docker-compose logs
+ 1801  sudo docker-compose down
+ 1802  shutdown
+ 1803  cd Desktop/code/books/
+ 1804  ls
+ 1805  sudo docker-compose up -d
+ 1806  code .
+ 1807  sudo docker-compose logs
+ 1808  sudo docker-compose down
+ 1809  sudo docker-compose up -d
+ 1810  sudo docker-compose down
+ 1811  sudo docker-compose up -d
+ 1812  sudo docker-compose logs
+ 1813  git status
+ 1814  git add .
+ 1815  git commit -m 'ch9'
+ 1816  sudo docker-compose down
+ 1817  cd Desktop/Kenny/
+ 1818  code .
+ 1819  touch index2.html
+ 1820  ls
+ 1821  shutdown
+ 1822  uptime -p
+ 1823  cd Desktop/code/books/
+ 1824  ls
+ 1825  sudo docker-compose up -d
+ 1826  sudo docker-compose exec web python manage.py startapp books
+ 1827  code .
+ 1828  sudo docker-compose exec web python manage.py makemigrations books
+ 1829  sudo docker-compose exec web python manage.py migrate books
+ 1830  ls
+ 1831  cd books
+ 1832  ls
+ 1833  touch urls.py
+ 1834  sudo touch urls.py
+ 1835  sudo docker-compose down
+ 1836  sudo docker-compose up -d
+ 1837  sudo docker-compose logs
+ 1838  sudo docker-compose down
+ 1839  shutdown
+ 1840  cd Desktop/code/
+ 1841  ls
+ 1842  cd books/
+ 1843  ls
+ 1844  code .
+ 1845  sudo docker-compose up -d
+ 1846  sudo docker-compose exec web rm -r books/migrations
+ 1847  sudo docker-compose down
+ 1848  sudo docker volume ls
+ 1849  sudo docker rm books_postgres_data
+ 1850  sudo docker volume rm books_postgres_data
+ 1851  sudo docker-compose up -d
+ 1852  sudo docker-compose exec web python manage.py makemigrations books
+ 1853  sudo docker-compose exec web python manage.py migrate
+ 1854  sudo docker-compose exec web python manage.py createsuperuser
+ 1855  sudo docker-compose logs
+ 1856  sudo docker-compose down
+ 1857  sudo docker-compose up -d
+ 1858  sudo docker-compose exec web test
+ 1859  sudo docker-compose exec web python manage.py test
+ 1860  sudo docker-compose exec web python manage.py test books
+ 1861  git status
+ 1862  git add .
+ 1863  git commit -m "ch10"
+ 1864  sudo docker-compose exec web python manage.py makemigrations
+ 1865  sudo docker-compose exec web python manage.py migrate
+ 1866  sudo docker-compose exec web python manage.py test
+ 1867  git status
+ 1868  git add .
+ 1869  git commit -m "ch11"
+ 1870  sudo docker-compose down
+ 1871  shutdown
+ 1872  cd Desktop/code/books/
+ 1873  sudo docker-compose up -d
+ 1874  sudo docker-compose exec web pipenv install pillow==6.2.1
+ 1875  sudo docker-compose down
+ 1876  sudo docker-compose up -d --build
+ 1877  mkdir media
+ 1878  mkdir media/covers
+ 1879  sudo docker-compose down
+ 1880  shutdown
+ 1881  cd Desktop/code/books/
+ 1882  code .
+ 1883  sudo docker-compose up -d
+ 1884  sudo docker-compose exec web python manage.py makemigreations books
+ 1885  sudo docker-compose exec web python manage.py makemigrations books
+ 1886  sudo docker-compose exec web python manage.py migrate
+ 1887  git status
+ 1888  git add .
+ 1889  git commit -m "ch12"
+ 1890  sudo docker-compose down
+ 1891  shutdown
+ 1892  sudo docker exec -it 3bc38cc4040d bash
+ 1893  ls
+ 1894  shutdown
+ 1895  cd Desktop/code/books/
+ 1896  ls
+ 1897  code .
+ 1898  sudo docker-compose up -d
+ 1899  git status
+ 1900  sudo docker ps
+ 1901  sudo docker-compose down
+ 1902  sudo docker ps
+ 1903  sudo docker -it a6f3095ab27f bash
+ 1904  sudo docker exec -it a6f3095ab27f bash
+ 1905  ls
+ 1906  cd orders/
+ 1907  touch urls.py
+ 1908  sudo touch urls.py
+ 1909  ls
+ 1910  cd ..
+ 1911  ls
+ 1912  mkdir templates/orders
+ 1913  touch templates/orders/purchase.html
+ 1914  sudo docker exec -it a6f3095ab27f bash
+ 1915  sudo docker exec -it 99268fdcf44b bash
+ 1916  ls
+ 1917  sudo docker exec 06fa85ea0df2 it bash
+ 1918  sudo docker exec 06fa85ea0df2 -it bash
+ 1919  sudo docker exec -it 06fa85ea0df2  bash
+ 1920  clear
+ 1921  sudo docker exec -it 48c67633ac80 bash
+ 1922  shutdown
+ 1923  cd Desktop/code/books/
+ 1924  code .
+ 1925  sudo docker ps
+ 1926  sudo docker-compose up -d
+ 1927  sudo docker ps
+ 1928  git status
+ 1929  git add .
+ 1930  git commit -m 'ch13'
+ 1931  cd ..
+ 1932  ls
+ 1933  cd books/
+ 1934  ls
+ 1935  cd orders/
+ 1936  touch urls.py
+ 1937  cd ..
+ 1938  sudo docker-compose down
+ 1939  sudo docker-compose up -d
+ 1940  sudo docker ps
+ 1941  sudo docker-compose log
+ 1942  sudo docker-compose logs
+ 1943  sudo docker ps
+ 1944  sudo docker-compose down
+ 1945  sudo docker-compose up -d
+ 1946  docker ps
+ 1947  sudo docker ps
+ 1948  sudo docker-compose down
+ 1949  sudo docker-compose up -d
+ 1950  sudo docker ps
+ 1951  sudo docker-compose down
+ 1952  shutdown
+ 1953  sudo docker exec -it 7d4570a8d059 bash
+ 1954  cd Desktop/code/books/
+ 1955  ls
+ 1956  sudo docker-compose up -d
+ 1957  sudo docker-ps
+ 1958  sudo docker -ps
+ 1959  sudo docker ps
+ 1960  code .
+ 1961  sudo docker-compose logs
+ 1962  sudo docker-compose exec web python manage.py shell
+ 1963  sudo docker-compose down
+ 1964  sudo docker-compose up -d --build
+ 1965  sudo docker-compose exec web python manage.py shell
+ 1966  git status
+ 1967  git add .
+ 1968  git commit -m 'ch14'
+ 1969  sudo docker-compose down
+ 1970  poweroff
+ 1971  git clone https://github.com/Umuzi-org/Adebayo-Osinulu-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1972  ls
+ 1973  cd Adebayo-Osinulu-606-tilde-project-tutorial-how-repo-projects-work-/
+ 1974  clear
+ 1975  ls
+ 1976  code .
+ 1977  git checkout -b bilard-branch
+ 1978  ls
+ 1979  touch BILARD.md
+ 1980  git status
+ 1981  git add .
+ 1982  git commit -m "Created Markdown file"
+ 1983  git push origin HEAD
+ 1984  gedit
+ 1985  ls /
+ 1986  pwd
+ 1987  cd `
+ 1988  CD ~
+ 1989  cd ~
+ 1990  ls -l /Desktop
+ 1991  ls -l Desktop
+ 1992  ls -R
+ 1993  ls -lh
+ 1994  ls -l -t -r
+ 1995  man ls
+ 1996  man cd
+ 1997  man man
+ 1998  cd Desktop/
+ 1999  mkdir learn_unix
+ 2000  mkdir learn_unix2
+ 2001  man cp learn_unix learn_unix2
+ 2002  man cp -r learn_unix learn_unix2
+ 2003  cp -r learn_unix learn_unix2
+ 2004  cd learn_unix
+ 2005  cd learn_unix2
+ 2006  cd ..
+ 2007  cd learn_unix2
+ 2008  ls
+ 2009  cp learn_unix learn_unix2
+ 2010  echo "Call me ishmael" > opening_lines.txt
+ 2011  ls
+ 2012  less opening_lines.txt 
+ 2013  echo "The second line" >> opening_lines.txt 
+ 2014  cat opening_lines.txt 
+ 2015  cat opening_lines.txt > file_copy.txt
+ 2016  cat file_copy.txt 
+ 2017  wc opening_lines.txt 
+ 2018  wc -l opening_lines.txt 
+ 2019  nano opening_lines.txt 
+ 2020  echo $USER
+ 2021  echo $PATH
+ 2022  NANO OP
+ 2023  nano opening_lines.txt 
+ 2024  grep was opening_lines.txt 
+ 2025  grep -i WAS opening_lines.txt 
+ 2026  grep WAS opening_lines.txt 
+ 2027  grep -v was opening_lines.txt 
+ 2028  grep in opening_lines.txt 
+ 2029  grep -w in opening_lines.txt 
+ 2030  grep -w o.. opening_lines.txt 
+ 2031  grep -w e.. opening_lines.txt 
+ 2032  grep -w exc.. opening_lines.txt 
+ 2033  grep [aeiou] opening_lines.txt 
+ 2034  grep [aeiou]t opening_lines.txt 
+ 2035  grep -w -i [aeiou]t opening_lines.txt 
+ 2036  grep was opening_lines.txt | wc -c
+ 2037  man cp
+ 2038  man head
+ 2039  clear
+ 2040  cd ..
+ 2041  rmdir learn_unix learn_unix2
+ 2042  rmdir -r learn_unix2
+ 2043  man rmdir
+ 2044  rm -rf learn_unix2/
+ 2045  ls
+ 2046  clear
+ 2047  mkdir git-basic-exercises
+ 2048  cd git-basic-exercises/
+ 2049  git init
+ 2050  git status
+ 2051  touch ReadME.md
+ 2052  git status
+ 2053  clear
+ 2054  git log
+ 2055  git add .
+ 2056  git commit -m "Initial commit"
+ 2057  git log
+ 2058  ls
+ 2059  mv ReadME.md README.md
+ 2060  ls
+ 2061  nano README.md 
+ 2062  git stats
+ 2063  git status
+ 2064  git add .
+ 2065  git commit -m "second commit"
+ 2066  git log
+ 2067  git checkout d9e8277795c3c75403213409426533062419fbf0
+ 2068  cat README.md 
+ 2069  git checkout main
+ 2070  git checkout master
+ 2071  cat README.md 
+ 2072  git branch
+ 2073  git checkout -b milkshake-flavours
+ 2074  git branch
+ 2075  nano milkshakes.md
+ 2076  git add .
+ 2077  nano milkshakes.md
+ 2078  git status
+ 2079  git add .
+ 2080  git commit -m "added initial flavours"
+ 2081  git log
+ 2082  git checkout master 
+ 2083  ls
+ 2084  git checkout -b history
+ 2085  git log
+ 2086  git branch
+ 2087  history > history.txt
